@@ -1,0 +1,46 @@
+Name;Symbol;Sector;Industry;Num_Employees
+Amazon.com  Inc.;AMZN;Consumer Cyclical;Internet Retail;1125300.0
+American Express Company;AXP;Financial Services;Credit Services;64000.0
+Apple Inc.;AAPL;Technology;Consumer Electronics;147000.0
+Axalta Coating Systems Ltd.;AXTA;Basic Materials;Specialty Chemicals;13000.0
+Bank of America Corporation;BAC;Financial Services;Banks-Diversified;211000.0
+The Bank of New York Mellon Corporation;BK;Financial Services;Asset Management;48600.0
+Barrick Gold Corporation;GOLD;Basic Materials;Gold;108792.0
+Biogen Inc.;BIIB;Healthcare;Drug Manufacturers-General;7400.0
+Charter Communications  Inc.;CHTR;Communication Services;Entertainment;95100.0
+The Coca-Cola Company;KO;Consumer Defensive;Beverages-Non-Alcoholic;86200.0
+Costco Wholesale Corporation;COST;Consumer Defensive;Discount Stores;156000.0
+DaVita Inc.;DVA;Healthcare;Medical Care Facilities;65000.0
+General Motors Company;GM;Consumer Cyclical;Auto Manufacturers;164000.0
+Globe Life Inc.;GL;Financial Services;Insurance-Life;3196.0
+Johnson & Johnson;JNJ;Healthcare;Drug Manufacturers-General;132200.0
+JPMorgan Chase & Co.;JPM;Financial Services;Banks-Diversified;256358.0
+The Kraft Heinz Company;KHC;Consumer Defensive;Packaged Foods;37000.0
+The Kroger Co.;KR;Consumer Defensive;Grocery Stores;500000.0
+Liberty Global plc;LBTYA;Communication Services;Entertainment;20200.0
+Liberty Global plc;LBTYK;Communication Services;Entertainment;20200.0
+Liberty Latin America Ltd.;LILA;Communication Services;Telecom Services;10000.0
+Liberty Latin America Ltd.;LILAK;Communication Services;Telecom Services;10000.0
+The Liberty SiriusXM Group;LSXMA;Communication Services;Broadcasting;108792.0
+The Liberty SiriusXM Group;LSXMK;Communication Services;Broadcasting;108792.0
+M&T Bank Corporation;MTB;Financial Services;Banks-Regional;16980.0
+Mastercard Incorporated;MA;Financial Services;Credit Services;18600.0
+Mondelez International  Inc.;MDLZ;Consumer Defensive;Confectioners;80000.0
+Moody's Corporation;MCO;Financial Services;Financial Data & Stock Exchanges;11397.0
+The PNC Financial Services Group  Inc.;PNC;Financial Services;Banks-Regional;49805.0
+The Procter & Gamble Company;PG;Consumer Defensive;Household & Personal Products;99000.0
+RH;RH;Consumer Cyclical;Specialty Retail;4400.0
+Sirius XM Holdings Inc.;SIRI;Communication Services;Broadcasting;4534.0
+Snowflake Inc.;SNOW;Technology;Software-Application;2037.0
+SPDR S&P 500 ETF Trust;SPY;None;None;108792.0
+StoneCo Ltd.;STNE;Technology;Software-Application;108792.0
+STORE Capital Corporation;STOR;Real Estate;REIT-Diversified;103.0
+Suncor Energy Inc.;SU;Energy;Oil & Gas Integrated;12889.0
+Synchrony Financial;SYF;Financial Services;Credit Services;16500.0
+Teva Pharmaceutical Industries Limited;TEVA;Healthcare;Drug Manufacturers-Specialty & Generic;40039.0
+U.S. Bancorp;USB;Financial Services;Banks-Regional;70000.0
+United Parcel Service  Inc.;UPS;Industrials;Integrated Freight & Logistics;260280.0
+Vanguard S&P 500 ETF;VOO;None;None;108792.0
+VeriSign  Inc.;VRSN;Technology;Software-Infrastructure;872.0
+Visa Inc.;V;Financial Services;Credit Services;108792.0
+Wells Fargo & Company;WFC;Financial Services;Banks-Diversified;274900.0
